@@ -56,9 +56,9 @@ At present, we officially aim to support the last two versions of the following 
 
 ## Reporting Issues
 
-We use GitHub Issues as the official bug tracker for the Nextjs + Tailwind Portfolio Page. Here are some advices for our users that want to report an issue:
+We use GitHub Issues as the official bug tracker for the NextJS Tailwind Event Landing Page. Here are some advices for our users that want to report an issue:
 
-1. Make sure that you are using the latest version of the Nextjs + Tailwind Portfolio Page. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/product/nextjs-tailwind-event-landing-page?ref=readme-ntpp).
+1. Make sure that you are using the latest version of the NextJS Tailwind Event Landing Page. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/product/nextjs-tailwind-event-landing-page?ref=readme-ntpp).
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
