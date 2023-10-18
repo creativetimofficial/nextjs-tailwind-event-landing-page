@@ -1,13 +1,8 @@
 "use client";
 
-import {
-  Tab,
-  Tabs,
-  TabsHeader,
-} from "@material-tailwind/react";
+import { Tab, Tabs, TabsHeader } from "@material-tailwind/react";
 
 import EventContentCard from "@/components/event-content-card";
-
 
 const EVENT_CONTENT = [
   {
@@ -16,7 +11,7 @@ const EVENT_CONTENT = [
     name: "Marcell Glock",
     position: "Chief Executive, Spotify",
     panel: "Panel Discussion",
-    img: "/image/avatar1.jpg",
+    img: "/nextjs-tailwind-event-landing-page/image/avatar1.jpg",
   },
   {
     title: "Introduction to Machine Learning",
@@ -24,7 +19,7 @@ const EVENT_CONTENT = [
     name: "Marcell Glock",
     position: "Chief Executive, Spotify",
     panel: "Workshop",
-    img: "/image/avatar2.jpg",
+    img: "/nextjs-tailwind-event-landing-page/image/avatar2.jpg",
   },
   {
     title: "AI in Healthcare: Revolutionizing Patient Care",
@@ -32,7 +27,7 @@ const EVENT_CONTENT = [
     name: "Marcell Glock",
     position: "Chief Executive, Spotify",
     panel: "Workshop",
-    img: "/image/avatar3.jpg",
+    img: "/nextjs-tailwind-event-landing-page/image/avatar3.jpg",
   },
 ];
 
