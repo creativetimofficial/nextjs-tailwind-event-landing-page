@@ -119,7 +119,6 @@ export default function RootLayout({
         />
       </head>
       <body className={roboto.className}>
-        {/* Google Tag Manager (noscript) */}
         <noscript>
           <iframe
             src="https://www.googletagmanager.com/ns.html?id=GTM-NKDMSK6"
@@ -128,7 +127,6 @@ export default function RootLayout({
             style={{ display: "none", visibility: "hidden" }}
           ></iframe>
         </noscript>
-        {/* End Google Tag Manager (noscript) */}
         <Layout>
           {children}
           <FixedPlugin />
